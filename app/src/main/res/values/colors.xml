@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorDarkWhite">#F0F0F0</color>
+    <color name="colorLightWhite">#FAFAFA</color>
+    <color name="titleColor">#000000</color>
+    <color name="Grey">#D3D3D3</color>
+    <color name="DarkGrey">#D3D3D4</color>
+    <color name="Z_black">#000000</color>
+    <color name="Instagram_blue">#3897F0</color>
+</resources>
